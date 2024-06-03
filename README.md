@@ -9,4 +9,4 @@
 - There are three classes in this dataset: Positive, Negative and Neutral. We regard messages that are not relevant to the entity (i.e. Irrelevant) as Neutral , there where 74996 row in the csv file of the dataset it include four coulmns unnamed but i renamed them to  id information labels text and i concatenate data of train and validation files togther 
 
 # EDA And Data Preprossing 
- ![Image]()
+ ![Image](https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification/blob/main/download%20(5).png)
