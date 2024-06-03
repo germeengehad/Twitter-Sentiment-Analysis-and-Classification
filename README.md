@@ -30,7 +30,7 @@
      
   # Model Performance
    ## RNN Model
-  ![Image]()
+  ![Image](https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification/blob/main/download%20(lstm%20acc).png)
   ![Image]()
   
   ## RNN Model
