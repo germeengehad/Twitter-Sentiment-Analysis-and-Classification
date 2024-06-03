@@ -35,7 +35,7 @@
   
   ## LSTM Model
   ![Image](https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification/blob/main/download%20(lstm%20acc).png)
-  ![Image]()
+  ![Image](https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification/blob/main/download%20(lstm%20loss).png)
 
   ## SVM Model
   - Test Accuracy: 92.65%
