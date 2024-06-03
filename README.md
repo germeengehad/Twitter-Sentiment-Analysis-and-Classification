@@ -10,3 +10,41 @@
 
 # EDA And Data Preprossing 
  ![Image](https://github.com/germeengehad/Twitter-Sentiment-Analysis-and-Classification/blob/main/download%20(5).png)
+
+- Data Preprossing:
+  - I removed unnecessary columns (id, information) to focus solely on the tweet text.
+  - I creat a  function to :
+     - Remove Extra Whitespace
+     - Remove Special Characters
+     - Remove Single Characters
+     - Remove Non-Alphabetical Characters
+     - Convert to Lowercase
+     - Tokenize Text
+     - Lemmatize Words
+     - Remove Stop Words
+     - Remove Short Words
+     - Remove Duplicates and Maintain Order
+   - I split the data into X and Y (labels)
+   - I applied oversampling to handle the unbalanced data.
+   - I split the data into train and test sets, with 1% of the dataset used for testing
+     
+  # Model Performance
+   ## RNN Model
+  ![Image]()
+  ![Image]()
+  
+  ## RNN Model
+  ![Image]()
+  ![Image]()
+
+  ## SVM Model
+  - Test Accuracy: 92.65%
+  - Train Accuracy: 95.83%
+
+  ## Naive Model
+  - Test Accuracy: 77.62%
+  - Train Accuracy: 80.67%
+  
+  
+  
+     
